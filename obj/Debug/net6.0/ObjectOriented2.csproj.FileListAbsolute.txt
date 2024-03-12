@@ -1,0 +1,15 @@
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.csproj.AssemblyReference.cache
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.AssemblyInfoInputs.cache
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.AssemblyInfo.cs
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.csproj.CoreCompileInputs.cache
+C:\Users\fedas\source\repos\ObjectOriented2\bin\Debug\net6.0\ObjectOriented2.exe
+C:\Users\fedas\source\repos\ObjectOriented2\bin\Debug\net6.0\ObjectOriented2.deps.json
+C:\Users\fedas\source\repos\ObjectOriented2\bin\Debug\net6.0\ObjectOriented2.runtimeconfig.json
+C:\Users\fedas\source\repos\ObjectOriented2\bin\Debug\net6.0\ObjectOriented2.dll
+C:\Users\fedas\source\repos\ObjectOriented2\bin\Debug\net6.0\ObjectOriented2.pdb
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.dll
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\refint\ObjectOriented2.dll
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.pdb
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ObjectOriented2.genruntimeconfig.cache
+C:\Users\fedas\source\repos\ObjectOriented2\obj\Debug\net6.0\ref\ObjectOriented2.dll
