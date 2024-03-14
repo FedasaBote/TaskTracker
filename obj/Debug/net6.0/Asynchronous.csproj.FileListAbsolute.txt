@@ -1,0 +1,15 @@
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.csproj.AssemblyReference.cache
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.AssemblyInfoInputs.cache
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.AssemblyInfo.cs
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\fedas\source\repos\Asynchronous\bin\Debug\net6.0\Asynchronous.exe
+C:\Users\fedas\source\repos\Asynchronous\bin\Debug\net6.0\Asynchronous.deps.json
+C:\Users\fedas\source\repos\Asynchronous\bin\Debug\net6.0\Asynchronous.runtimeconfig.json
+C:\Users\fedas\source\repos\Asynchronous\bin\Debug\net6.0\Asynchronous.dll
+C:\Users\fedas\source\repos\Asynchronous\bin\Debug\net6.0\Asynchronous.pdb
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.dll
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\refint\Asynchronous.dll
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.pdb
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\Asynchronous.genruntimeconfig.cache
+C:\Users\fedas\source\repos\Asynchronous\obj\Debug\net6.0\ref\Asynchronous.dll
